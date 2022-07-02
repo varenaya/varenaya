@@ -1,4 +1,4 @@
-### Hey I am Varenaya Negi 👋
+### Hey, I am Varenaya Negi 👋
 
 # 💫 About Me:
 🔭 I’m currently building Renter.<br>🌱 I’m currently learning more about Fast API.<br>🤔 I’m currently looking for some cool android project.<br>💬 Ask me about Flutter related query.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 10 hours on Youtube watching random stuffs everyday.
