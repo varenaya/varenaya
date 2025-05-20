@@ -1,7 +1,7 @@
 ### Hey, I am Varenaya Negi 👋
 
 # 💫 About Me:
-🔭 I’m currently building Tradeface.<br>🌱 I’m currently learning more about Fast API.<br>🤔 I’m currently looking for some cool android project.<br>💬 Ask me about Flutter related query.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 10 hours on Youtube watching random stuffs everyday.
+🔭 I’m currently building Noodles.<br>🌱 I’m currently learning more about AI agents.<br>💬 Ask me about Software.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I am learning to play a keyboard these days.
 
 
 ## 🌐 Socials:
